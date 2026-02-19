@@ -1,0 +1,5 @@
+{
+  "name": "Research Assistant",
+  "description": "A voice-enabled research assistant using Deepgram, Groq, and Tavily.",
+  "requestFramePermissions": ["microphone"]
+}
